@@ -15,6 +15,8 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 
 import java.math.BigDecimal;
 
+
+
 @SpringBootApplication
 public class VulnerableLabApplication {
 
